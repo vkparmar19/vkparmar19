@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @vkparmar19
-- 👀 I’m interested in everthing with code. 
-- 🌱 I’m currently learning electron js
+- 👋 Hi, I’m Vishal
+
+- A Little About Me:
+- 🙋‍♂️ Full Stack software developer with expertise in front-end.
+- 🌱 3 years of work experience in React, React Native, Electron.
+- 👀 I’m interested in everthing with code.
+- 📫 Reach out to me at: vkparmar19@gmail.com
+  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
