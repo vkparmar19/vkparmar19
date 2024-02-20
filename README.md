@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 
-- A Little About Me:
+## A Little About Me:
 - 🙋‍♂️ Full Stack software developer with expertise in front-end.
 - 🌱 3 years of work experience in React, React Native, Electron.
 - 👀 I’m interested in everthing with code.
